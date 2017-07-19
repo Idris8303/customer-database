@@ -1,0 +1,25 @@
+ul{
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+li{
+  text-align: center;
+
+
+}
+img{ height: 250px;
+
+
+}
+
+h1{
+  text-decoration: underline;
+  text-decoration-color: green;
+}
+header{
+  font-weight: bold;
+  font-size: 2em;
+  text-align: center;
+
+}
