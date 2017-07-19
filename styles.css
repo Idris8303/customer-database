@@ -19,7 +19,9 @@ h1{
 }
 header{
   font-weight: bold;
-  font-size: 2em;
   text-align: center;
 
+}
+.tophead{
+  text-decoration: none;
 }
