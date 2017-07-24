@@ -5,6 +5,7 @@ ul{
 }
 li{
   text-align: center;
+  width: 25%;
 
 
 }
@@ -16,6 +17,10 @@ img{ height: 250px;
 h1{
   text-decoration: underline;
   text-decoration-color: green;
+}
+
+h2{
+  font-size: 20px;
 }
 header{
   font-weight: bold;
